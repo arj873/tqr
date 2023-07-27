@@ -1,6 +1,6 @@
 # Terminal QR Code
 
-A fast terminal based qr code generator
+A fast terminal based qr code generator made with rust.
 
 **Still under development**
 
